@@ -1,0 +1,33 @@
+# -------------------------------------------------------------------
+# Obsidian Core & Workspace (Crucial to prevent merge conflicts)
+# -------------------------------------------------------------------
+# Exclude UI state, active tabs, open files, and search history
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# -------------------------------------------------------------------
+# Caches and Temporary System Files
+# -------------------------------------------------------------------
+.trash/
+.DS_Store
+Thumbs.db
+*.tmp
+
+# -------------------------------------------------------------------
+# Plugin-Specific Caches (Large / fast-changing indices)
+# -------------------------------------------------------------------
+.obsidian-git-data
+.smart-connections/
+.pro/copilot-index-*.json
+
+# -------------------------------------------------------------------
+# Optional: Choose how to handle your settings (Pick ONE approach below)
+# -------------------------------------------------------------------
+
+# APPROACH A: Track all plugins, themes, and configuration settings (Recommended for solo users)
+# If you use this approach, leave this block commented out. Git will sync your setup perfectly across devices.
+
+# APPROACH B: Ignore ALL configuration files (If you only want raw notes tracked)
+# Un-comment the line below if you prefer to set up your plugins manually on every device.
+# .obsidian/

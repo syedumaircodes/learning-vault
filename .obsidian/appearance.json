@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "accentColor": "#1b80f9",
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 18,
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Hack",
+  "showViewHeader": true,
+  "showRibbon": false
+}

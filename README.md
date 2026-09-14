@@ -1,2 +1,3 @@
-# learning-vault
-Obsidian vault with all of my notes from various courses and books
+# Learning Vault
+
+My Obsidian Vault for all of notes that are currently scattered across the multiverse.
