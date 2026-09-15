@@ -11,10 +11,14 @@
             "id": "190380f6dba9ac3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/Colt Steele MySQL/01-Introduction to Databases.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01-Introduction to Databases"
             }
           }
         ]
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4d5faa7e5bb96248",
@@ -65,11 +70,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "file": "Udemy/Colt Steele MySQL/01-Introduction to Databases.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -89,15 +94,16 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f7ba968243c8807e",
+  "active": "190380f6dba9ac3f",
   "lastOpenFiles": [
+    "Udemy/Colt Steele MySQL/02-Creating Databases and Tables.md",
+    "Udemy/Colt Steele MySQL/01-Introduction to Databases.md",
+    "Udemy/Colt Steele MySQL",
+    "README.md",
     "Udacity",
     "Coursera",
     "Udemy",
